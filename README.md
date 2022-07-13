@@ -1,3 +1,5 @@
+
+![enter image description here](https://i.imgur.com/l00eNqv.png)
 # Welcome to My GitHub 🚀
 
 Hello and welcome to my GitHub page! My name is Amira, I am currently studying at the School of Code bootcamp. Before I began my journey into tech, I studied Art and Design at college, and Psychology at University. I am an aspiring front-end developer, and I also have an interest in UI development. Follow my journey on [LinkedIn](https://www.linkedin.com/in/amira-gucher-blackman-7482a4205/)
