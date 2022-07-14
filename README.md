@@ -1,4 +1,4 @@
-![Ivory Grey Minimalist Business LinkedIn Banner (2)](https://user-images.githubusercontent.com/98705391/178943582-d135b5a7-5cea-4ffd-bf3c-ea1ed9cdd4e2.gif)
+![Ivory Grey Minimalist Business LinkedIn Banner (3)](https://user-images.githubusercontent.com/98705391/178950843-dbc7c175-0806-4571-9bc2-c563eba30270.gif)
 
 # Welcome to My GitHub 🚀
 
