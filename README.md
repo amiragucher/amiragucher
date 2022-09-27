@@ -5,7 +5,6 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amiragucher&show_icons=true&theme=onedark)
 
 
 
